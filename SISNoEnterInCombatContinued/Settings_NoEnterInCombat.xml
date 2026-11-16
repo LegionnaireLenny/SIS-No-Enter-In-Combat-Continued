@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<SISNoEnterInCombat_Settings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EnabledForPlayer>true</EnabledForPlayer>
+  <EnabledForCommunity>false</EnabledForCommunity>
+  <EnabledForNPCs>false</EnabledForNPCs>
+  <CanEnterCommunityBuildingsInCombat>true</CanEnterCommunityBuildingsInCombat>
+</SISNoEnterInCombat_Settings>

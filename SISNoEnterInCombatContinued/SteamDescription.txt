@@ -1,0 +1,17 @@
+[h2]What is this?[/h2]
+This mod disables the ability to enter buildings while in combat. Can be applied to only rbe player, the whole community, or everyone.
+By the default cofiguration, only the controlled player (and any local players) can't enter buildings while under attack. They can however enter buildings that belong to their community.
+
+Can be added to current saves.
+
+[h2]Settings[/h2]
+The settings file can be found in the mod folder under "Settings_NoEnterInCombat.xml"
+[list]
+[*] EnabledForPlayer. Whether the mod is enabled the player. (default true)
+[*] EnabledForCommunity. Whether the mod is enabled for your community members. (default false)
+[*] EnabledForNPCs. Whether the mod is enabled for NPC's. (default false)
+[*] CanEnterCommunityBuildingsInCombat. Whether the characters can enter buildings in combat that belong to their community. (default true)
+[/list]
+
+[h2]Compatibility[/h2]
+Shouldn't have any incompatibilities. Report any issues in the comments section!

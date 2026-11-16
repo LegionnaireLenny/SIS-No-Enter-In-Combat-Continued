@@ -1,0 +1,5 @@
+Tag	Translation	English
+STORY_Title	SIS No Enter In Combat
+STORY_Description	This mod allows you to disable the ability to enter buildings while in combat. Can be applied to only the local players, the whole community, or everyone. You can also disable the mod for buildings from your community, so you can enter them even in combat.
+
+HUD_SISNoEnterInCombat	Під час бою не можна заходити в будівлю	You cannot enter a building while in combat
