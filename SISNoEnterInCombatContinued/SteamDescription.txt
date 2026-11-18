@@ -5,7 +5,8 @@ Source code: https://github.com/LegionnaireLenny/SIS-No-Enter-In-Combat-Continue
 [hr][/hr]
 
 [h2]What is this?[/h2]
-This mod disables the ability to enter buildings while in combat. Can be applied to only rbe player, the whole community, or everyone.
+This mod disables the ability to enter buildings while in combat. Can be applied to only the player, the whole community, or everyone.
+
 By the default cofiguration, only the controlled player (and any local players) can't enter buildings while under attack. They can however enter buildings that belong to their community.
 
 Can be added to current saves.
@@ -21,3 +22,6 @@ The settings file can be found in the mod folder under "Settings_NoEnterInCombat
 
 [h2]Compatibility[/h2]
 Shouldn't have any incompatibilities. Report any issues in the comments section!
+
+[h2]Credits[/h2]
+Erikem, Luo2430 and Bob!
