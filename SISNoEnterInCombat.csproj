@@ -83,5 +83,35 @@
     <Compile Include="Source\SISNoEnterInCombat_Settings.cs" />
     <Compile Include="Source\SISNoEnterInCombat_Utils.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include=".gitignore" />
+    <Content Include="SISNoEnterInCombatContinued\CoverIcon.jpg" />
+    <Content Include="SISNoEnterInCombatContinued\Settings.xml" />
+    <Content Include="SISNoEnterInCombatContinued\Settings_NoEnterInCombat.xml" />
+    <Content Include="SISNoEnterInCombatContinued\SISNOENTERINCOMBAT.txt" />
+    <Content Include="SISNoEnterInCombatContinued\SteamDescription.txt" />
+    <Content Include="SISNoEnterInCombatContinued\Version.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Directory.Build.props" />
+    <None Include="LICENSE" />
+    <None Include="README.md" />
+    <None Include="SISNoEnterInCombatContinued\English.tsv" />
+    <None Include="SISNoEnterInCombatContinued\French.tsv" />
+    <None Include="SISNoEnterInCombatContinued\German.tsv" />
+    <None Include="SISNoEnterInCombatContinued\Italian.tsv" />
+    <None Include="SISNoEnterInCombatContinued\Japanese.tsv" />
+    <None Include="SISNoEnterInCombatContinued\Korean.tsv" />
+    <None Include="SISNoEnterInCombatContinued\LatinAmericanSpanish.tsv" />
+    <None Include="SISNoEnterInCombatContinued\Russian.tsv" />
+    <None Include="SISNoEnterInCombatContinued\SimplifiedChinese.tsv" />
+    <None Include="SISNoEnterInCombatContinued\Spanish.tsv" />
+    <None Include="SISNoEnterInCombatContinued\TraditionalChinese.tsv" />
+    <None Include="SISNoEnterInCombatContinued\Turkish.tsv" />
+    <None Include="SISNoEnterInCombatContinued\Ukrainian.tsv" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="SISNoEnterInCombatContinued\DLLs\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
